@@ -18,6 +18,18 @@ function App() {
           Learn React
         </a>
       </header>
+      <script
+        className="amocrm_oauth"
+        data-client-id="b4415501-f3d5-45b7-992c-4ff08f29b5f8"
+        data-title="Button"
+        data-compact="false"
+        data-class-name="className"
+        data-color="default"
+        data-state="state"
+        data-error-callback="functionName"
+        data-mode="popup"
+        src="https://www.amocrm.ru/auth/button.min.js"
+      ></script>
     </div>
   );
 }
