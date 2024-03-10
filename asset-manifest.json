@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/emfy/static/css/main.e6c13ad2.css",
-    "main.js": "/emfy/static/js/main.af13c12a.js",
+    "main.js": "/emfy/static/js/main.8eee74db.js",
     "static/js/453.60cc20b5.chunk.js": "/emfy/static/js/453.60cc20b5.chunk.js",
     "index.html": "/emfy/index.html",
     "main.e6c13ad2.css.map": "/emfy/static/css/main.e6c13ad2.css.map",
-    "main.af13c12a.js.map": "/emfy/static/js/main.af13c12a.js.map",
+    "main.8eee74db.js.map": "/emfy/static/js/main.8eee74db.js.map",
     "453.60cc20b5.chunk.js.map": "/emfy/static/js/453.60cc20b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.af13c12a.js"
+    "static/js/main.8eee74db.js"
   ]
 }
